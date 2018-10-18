@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/Nexapp/react-native-scrollable-with-collapsable-header#readme",
   "dependencies": {
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.6.2"    
+  },
+  "peerDependencies": {
     "react": "^16.5.2",
     "react-native": "^0.57.3"
   }
