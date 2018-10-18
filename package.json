@@ -14,7 +14,7 @@
     "react-native"
   ],
   "author": "Steven Harvey @ Nexapp",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/Nexapp/react-native-scrollable-with-collapsable-header/issues"
   },
