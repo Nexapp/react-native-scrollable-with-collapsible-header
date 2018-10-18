@@ -1,1 +1,1 @@
-# rn-scrollable-with-collapsable-header
+# react-native-scrollable-with-collapsable-header
