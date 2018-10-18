@@ -14,7 +14,7 @@ export class ScrollableWithCollapsibleHeader extends React.Component {
 
   positiveScroll = this.scroll.interpolate({
     inputRange: [0, 1],
-    outputRange: [0, 1],
+    outputRange: [0, 2],
     extrapolateLeft: 'clamp',
   });
 
