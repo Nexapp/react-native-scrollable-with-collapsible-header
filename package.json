@@ -1,14 +1,14 @@
 {
-  "name": "react-native-scrollable-with-collapsable-header",
+  "name": "react-native-scrollable-with-collapsible-header",
   "version": "1.0.1",
-  "description": "A simple react-native component to associate a collapsable header to any scrollable component (ie: ScrollView, FlatList, SectionList)",
+  "description": "A simple react-native component to associate a collipsable header to any scrollable component (ie: ScrollView, FlatList, SectionList)",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nexapp/react-native-scrollable-with-collapsable-header.git"
+    "url": "git+https://github.com/Nexapp/react-native-scrollable-with-collapsible-header.git"
   },
   "keywords": [
     "react-native"
@@ -16,9 +16,9 @@
   "author": "Steven Harvey @ Nexapp",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/Nexapp/react-native-scrollable-with-collapsable-header/issues"
+    "url": "https://github.com/Nexapp/react-native-scrollable-with-collapsible-header/issues"
   },
-  "homepage": "https://github.com/Nexapp/react-native-scrollable-with-collapsable-header#readme",
+  "homepage": "https://github.com/Nexapp/react-native-scrollable-with-collapsible-header#readme",
   "dependencies": {
     "prop-types": "^15.6.2"    
   },

@@ -2,7 +2,7 @@ import * as React from 'react';
 import { Animated } from 'react-native';
 import PropTypes from 'prop-types';
 
-export class ScrollableWithCollapsableHeader extends React.Component {
+export class ScrollableWithCollapsibleHeader extends React.Component {
 
   constructor(props) {
     super(props);
@@ -62,7 +62,7 @@ export class ScrollableWithCollapsableHeader extends React.Component {
 
 }
 
-ScrollableWithCollapsableHeader.propTypes = {
+ScrollableWithCollapsibleHeader.propTypes = {
   headerComponent: PropTypes.func.isRequired,
   listComponent: PropTypes.func.isRequired,
   headerHeight: PropTypes.number,
