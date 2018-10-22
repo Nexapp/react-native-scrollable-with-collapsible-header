@@ -3,7 +3,7 @@
 A simple react-native component to associate a collapsible header to any scrollable component (ie: ScrollView, FlatList, SectionList).
 
 ## Installation
-`npm install react-native-scrollable-with-collapsable-header`
+`npm install react-native-scrollable-with-collapsible-header`
 
 ## Usage
 ```
